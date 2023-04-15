@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ChessTips</string>
+
+    // Tips
+    <string name="tip1">Control the center</string>
+    <string name="tip2">Develop your pieces early</string>
+    <string name="tip3">Castle early!</string>
+    <string name="tip4">Bishops on long diagonals</string>
+    <string name="tip5">Rooks on open files</string>
+    <string name = "tip6">Connect your rooks</string>
+    <string name="tip7">Passed pawns must be pushed</string>
+    <string name="tip8">Knights on the rim are dim</string>
+    <string name="tip9">Knights are best in the centre</string>
+    <string name="tip10">Analyse on your opponent\'s turn</string>
+
+
+    // Tip text
+    <string name="tipText1">Start by moving a pawn into the center controlling key squares</string>
+    <string name="tipText2"> Getting your pieces out early can help control the center and allows you to be move flexible with your moves, make sure to get your knight out before your bishop</string>
+    <string name="tipText3">Getting your king to safety means that you can start your main plans and attack your opponent without being afraid of getting mated</string>
+    <string name="tipText4">Placing your bishop on the long diagonal lets it control the most possible squares limiting your opponent\'s play</string>
+    <string name="tipText5">Rooks belong on open files they exert the most control here</string>
+    <string name="tipText6">Connected rooks are much more powerful than disconnected ones</string>
+    <string name = "tipText7">Pushing passed pawns can put a lot of pressure on your opponent and you get closer to making another queen</string>
+    <string name="tipText8">Knights on the rim are not good as they see very few squares</string>
+    <string name="tipText9">Knights on the 3rd and 4th ranks are excellent defenders while are excellent attackers on the 5th and 6th ranks</string>
+    <string name="tipText10">Think about the position on your opponent\'s turn, how are your pieces positioned?, how is your pawn structure?, Is your king safe?</string>
+
+
+
+    <string name="iconButtonDes">Click to see your daily tip</string>
+    <string name="appLogoDesc">App logo</string>
+</resources>
